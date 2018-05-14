@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Trabajo Final </string>
+
+    /*BUTTONS*/
+    <string name="btn_ov">Dir. de Orientación Vocacional </string>
+    <string name="btn_tov">Test de O. V. </string>
+    <string name="btn_emepezar">Empezar Test</string>
+    <string name="btn_Siguiente">Siguiente </string>
+
+    /*TEXTOS PANTALLAS*/
+    <string name="descOV">Si aún no decidiste qué carrera seguir, en la UNCA podés llevar adelante un Proceso de Orientación Mensual, Intensivo o Reorientación Vocacional, cuya modalidad es grupal o individual, durante esta instancia de trabajo conjunto se te guiará hacia la carrera que más se identifique con tu vocación.
+    Los procesos de orientación llevados a cabo en el servicio tienen como fin generar un espacio de encuentro donde puedas plantear tus dudas, incertidumbres, pensamientos y deseos.
+    Dirigido a estudiantes del último año de secundaria (tanto de la capital, como del interior provincial) o para adultos que decidan iniciar o modificar un proyecto de vida asociado a la una elección de una carrera.
+    </string>
+    <string name="txt_TEST">Debes tener presente que el resultado del test vocacional, si bien brinda información muy valiosa, debes integrarlo a un proceso de reflexión en acompañamiento de un profesional del área. </string>
+    <string name="todo">TODO</string>
+    <string name="datosAlumnor">Ingresa tus datos </string>
+
+    /*RADIO BUTTONS*/
+    <string name="rta_Si">Me Interesa</string>
+    <string name="rta_No">No me Interesa</string>
+
+    /*PREGUNTAS*/
+    <string name="PREG_1" >Diseñar programas de computación y explorar nuevas aplicaciones
+    tecnológicas para uso del internet.</string>
+
+</resources>
